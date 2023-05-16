@@ -1,0 +1,152 @@
+C:\Users\acer\source\repos\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.exe
+C:\Users\acer\source\repos\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.deps.json
+C:\Users\acer\source\repos\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.runtimeconfig.json
+C:\Users\acer\source\repos\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.runtimeconfig.dev.json
+C:\Users\acer\source\repos\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.dll
+C:\Users\acer\source\repos\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.pdb
+C:\Users\acer\source\repos\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.frmLogin.resources
+C:\Users\acer\source\repos\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.AssemblyInfo.cs
+C:\Users\acer\source\repos\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.dll
+C:\Users\acer\source\repos\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.pdb
+C:\Users\acer\source\repos\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.genruntimeconfig.cache
+C:\Users\acer\source\repos\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormAdmin.resources
+C:\Users\acer\source\repos\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.AddLibrarian.resources
+C:\Users\acer\source\repos\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.AddMember.resources
+C:\Users\acer\source\repos\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormLibrarian.resources
+C:\Users\acer\source\repos\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormAddBooks.resources
+C:\Users\acer\source\repos\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.RemoveBooks.resources
+C:\Users\acer\source\repos\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.RemoveLibrarian.resources
+C:\Users\acer\source\repos\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.RemoveMember.resources
+C:\Users\acer\source\repos\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormSearchBook.resources
+F:\c# project\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.exe
+F:\c# project\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.deps.json
+F:\c# project\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.runtimeconfig.json
+F:\c# project\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.runtimeconfig.dev.json
+F:\c# project\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.dll
+F:\c# project\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.pdb
+F:\c# project\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormAddBooks.resources
+F:\c# project\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormAddLibrarian.resources
+F:\c# project\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormAddMember.resources
+F:\c# project\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormAdminDashBoard.resources
+F:\c# project\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormBookBorrowRequest.resources
+F:\c# project\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormBookReturnRequest.resources
+F:\c# project\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormLibrarianDashboard.resources
+F:\c# project\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormLibrarianManageBooks.resources
+F:\c# project\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormLibraryInfo.resources
+F:\c# project\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormLogin.resources
+F:\c# project\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormRemoveBooks.resources
+F:\c# project\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormRemoveLibrarian.resources
+F:\c# project\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormRemoveMember.resources
+F:\c# project\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormSearchBook.resources
+F:\c# project\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.csproj.GenerateResource.cache
+F:\c# project\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.AssemblyInfoInputs.cache
+F:\c# project\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.AssemblyInfo.cs
+F:\c# project\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.csproj.CoreCompileInputs.cache
+F:\c# project\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.dll
+F:\c# project\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.pdb
+F:\c# project\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.genruntimeconfig.cache
+F:\c# project\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.exe
+F:\c# project\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.deps.json
+F:\c# project\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.runtimeconfig.json
+F:\c# project\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.runtimeconfig.dev.json
+F:\c# project\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.dll
+F:\c# project\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.pdb
+F:\c# project\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.csprojAssemblyReference.cache
+F:\c# project\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormAddBooks.resources
+F:\c# project\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormAddLibrarian.resources
+F:\c# project\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormAddMember.resources
+F:\c# project\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormAdminDashBoard.resources
+F:\c# project\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormBookBorrowRequest.resources
+F:\c# project\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormBookReturnRequest.resources
+F:\c# project\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormLibrarianDashboard.resources
+F:\c# project\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormLibrarianManageBooks.resources
+F:\c# project\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormLibraryInfo.resources
+F:\c# project\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormLogin.resources
+F:\c# project\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormRemoveBooks.resources
+F:\c# project\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormRemoveLibrarian.resources
+F:\c# project\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormRemoveMember.resources
+F:\c# project\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormSearchBook.resources
+F:\c# project\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.Properties.Resources.resources
+F:\c# project\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.csproj.GenerateResource.cache
+F:\c# project\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.AssemblyInfoInputs.cache
+F:\c# project\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.AssemblyInfo.cs
+F:\c# project\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.csproj.CoreCompileInputs.cache
+F:\c# project\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.dll
+F:\c# project\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.pdb
+F:\c# project\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.genruntimeconfig.cache
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.exe
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.deps.json
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.runtimeconfig.json
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.runtimeconfig.dev.json
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.dll
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.pdb
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.csproj.AssemblyReference.cache
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormAddBooks.resources
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormAddLibrarian.resources
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormAddMember.resources
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormAdminDashBoard.resources
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormBookBorrowRequest.resources
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormBookReturnRequest.resources
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormLibrarianDashboard.resources
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormLibrarianManageBooks.resources
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormLibraryInfo.resources
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormLogin.resources
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormRemoveBooks.resources
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormRemoveLibrarian.resources
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormRemoveMember.resources
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormSearchBook.resources
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.Properties.Resources.resources
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.csproj.GenerateResource.cache
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.AssemblyInfoInputs.cache
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.AssemblyInfo.cs
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.csproj.CoreCompileInputs.cache
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.dll
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.pdb
+C:\Users\jakia\Downloads\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.genruntimeconfig.cache
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.exe
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.deps.json
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.runtimeconfig.json
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.runtimeconfig.dev.json
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.dll
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\Library Management System.pdb
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Data.dll
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Entity.dll
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Framework.dll
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Repository.dll
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Entity.pdb
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Repository.pdb
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Data.pdb
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Framework.pdb
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.csprojAssemblyReference.cache
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormAddBooks.resources
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormAddLibrarian.resources
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormAddMember.resources
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormAdminDashBoard.resources
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormBookBorrowRequest.resources
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormBookReturnRequest.resources
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormLibrarianDashboard.resources
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormLibrarianManageBooks.resources
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormLogin.resources
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormRemoveBooks.resources
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormRemoveLibrarian.resources
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormRemoveMember.resources
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.FormSearchBook.resources
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library_Management_System.Properties.Resources.resources
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.csproj.GenerateResource.cache
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.AssemblyInfoInputs.cache
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.AssemblyInfo.cs
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.csproj.CoreCompileInputs.cache
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.csproj.CopyComplete
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.dll
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.pdb
+F:\c# project\Library Management System(15-08-21)\Library Management System\Library Management System\obj\Debug\netcoreapp3.1\Library Management System.genruntimeconfig.cache

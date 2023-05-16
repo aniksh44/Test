@@ -1,0 +1,9 @@
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Data\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Data.deps.json
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Data\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Data.dll
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Data\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Data.pdb
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Data\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Data.csprojAssemblyReference.cache
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Data\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Data.AssemblyInfoInputs.cache
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Data\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Data.AssemblyInfo.cs
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Data\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Data.csproj.CoreCompileInputs.cache
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Data\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Data.dll
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Data\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Data.pdb

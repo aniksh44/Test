@@ -1,0 +1,9 @@
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Framework\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Framework.deps.json
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Framework\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Framework.dll
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Framework\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Framework.pdb
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Framework\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Framework.csprojAssemblyReference.cache
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Framework\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Framework.AssemblyInfoInputs.cache
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Framework\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Framework.AssemblyInfo.cs
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Framework\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Framework.csproj.CoreCompileInputs.cache
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Framework\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Framework.dll
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Framework\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Framework.pdb

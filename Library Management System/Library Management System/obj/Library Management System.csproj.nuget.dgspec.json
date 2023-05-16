@@ -1,0 +1,304 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\Library Management System\\Library Management System.csproj": {}
+  },
+  "projects": {
+    "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\Library Management System\\Library Management System.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\Library Management System\\Library Management System.csproj",
+        "projectName": "Library Management System",
+        "projectPath": "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\Library Management System\\Library Management System.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\Library Management System\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Entity\\LibraryManagementSystem.Entity.csproj": {
+                "projectPath": "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Entity\\LibraryManagementSystem.Entity.csproj"
+              },
+              "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Repository\\LibraryManagementSystem.Repository.csproj": {
+                "projectPath": "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Repository\\LibraryManagementSystem.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Data\\LibraryManagementSystem.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Data\\LibraryManagementSystem.Data.csproj",
+        "projectName": "LibraryManagementSystem.Data",
+        "projectPath": "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Data\\LibraryManagementSystem.Data.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Entity\\LibraryManagementSystem.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Entity\\LibraryManagementSystem.Entity.csproj",
+        "projectName": "LibraryManagementSystem.Entity",
+        "projectPath": "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Entity\\LibraryManagementSystem.Entity.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Framework\\LibraryManagementSystem.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Framework\\LibraryManagementSystem.Framework.csproj",
+        "projectName": "LibraryManagementSystem.Framework",
+        "projectPath": "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Framework\\LibraryManagementSystem.Framework.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Repository\\LibraryManagementSystem.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Repository\\LibraryManagementSystem.Repository.csproj",
+        "projectName": "LibraryManagementSystem.Repository",
+        "projectPath": "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Repository\\LibraryManagementSystem.Repository.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Data\\LibraryManagementSystem.Data.csproj": {
+                "projectPath": "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Data\\LibraryManagementSystem.Data.csproj"
+              },
+              "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Entity\\LibraryManagementSystem.Entity.csproj": {
+                "projectPath": "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Entity\\LibraryManagementSystem.Entity.csproj"
+              },
+              "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Framework\\LibraryManagementSystem.Framework.csproj": {
+                "projectPath": "F:\\c# project\\Library Management System(15-08-21)\\Library Management System\\LibraryManagementSystem.Framework\\LibraryManagementSystem.Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

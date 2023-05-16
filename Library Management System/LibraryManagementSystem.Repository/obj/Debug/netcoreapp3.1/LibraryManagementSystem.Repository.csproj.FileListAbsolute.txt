@@ -1,0 +1,16 @@
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Repository\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Repository.deps.json
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Repository\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Repository.dll
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Repository\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Repository.pdb
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Repository\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Data.dll
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Repository\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Entity.dll
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Repository\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Framework.dll
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Repository\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Data.pdb
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Repository\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Entity.pdb
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Repository\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Framework.pdb
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Repository\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Repository.csprojAssemblyReference.cache
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Repository\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Repository.AssemblyInfoInputs.cache
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Repository\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Repository.AssemblyInfo.cs
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Repository\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Repository.csproj.CoreCompileInputs.cache
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Repository\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Repository.csproj.CopyComplete
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Repository\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Repository.dll
+F:\c# project\Library Management System(15-08-21)\Library Management System\LibraryManagementSystem.Repository\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Repository.pdb
